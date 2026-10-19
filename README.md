@@ -1,6 +1,8 @@
 # Claim Tracker: AI-Powered Automated Claims Processing
 
-ClaimTracker is an AI chatbot that automates insurance claim processing. It summarizes each claim, checks it against the policy handbook, and gives a clear verdict on whether the claim is valid.
+ClaimTracker is an AI chatbot that automates insurance claim processing. It summarises each claim, checks it against the policy handbook, and gives a clear verdict on whether the claim is valid.
+
+![Overview](images/claimtracker_poster.png)
 
 ## Problem
 
