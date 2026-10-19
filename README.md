@@ -14,13 +14,13 @@ ClaimTracker combines machine learning, natural language processing, and generat
 - **Answer handbook questions:** works as an educational resource on the insurer's membership handbook.
 - **Surface insights:** uses AI-driven analysis to improve accuracy, streamline reporting, and support proactive decisions.
 
-![ClaimTracker overview](images\claimtrackr_capabilities.png)
+![ClaimTracker overview](images/claimtrackr_capabilities.png)
 
 ## Time Savings
 
 The comparison below shows the time required for each task with and without the ClaimTracker flow.
 
-![Time comparison](images\claimtrackr_time_comparison.png)
+![Time comparison](images/claimtrackr_time_comparison.png)
 
 ## Inputs
 
@@ -32,7 +32,7 @@ ClaimTracker needs three sets of inputs:
 
 ## Architecture
 
-![Architecture diagram](images\claimtrackr_architecture.png)
+![Architecture diagram](images/claimtrackr_architecture.png)
 
 ### Step 1: Data Collection and Exploratory Data Analysis
 
